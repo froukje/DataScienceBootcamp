@@ -5,7 +5,7 @@ Data Science Bootcamp at neue fische Feb-May 2020
 Notebooks: 
 * Exercises considering different topics in Python
 
-KingCountyHousePrises:
+KingCountyHousePrices:
 * Exploratory Data Analysis based on a dataset for house prices in King County
 * Goal: Predict House Prices with a linear regression analysis, depending on selected features in the dataset
 * First data exploration:
