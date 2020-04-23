@@ -14,3 +14,6 @@ Project2_Personality_vs_RiskDrugUse:
 * Dataset: A survay of people considering their demographic background, education and drug consumption
 * Exploratory Data Analysis based on the [survay dataset](Project2_Personality_vs_RiskDrugUse/drug_consumption.xls)
 * Predicting a classification problem using different model types and hyperparameter tuning on a specific metric  
+
+Project3_Capstone_Classify_Bloodcells
+* Final project: work in progess ...
