@@ -23,5 +23,5 @@ Project3_Capstone_Classify_Bloodcells
     * Lymphocytes vs. Rest
     * Classify all four types
 * Different techniques are used:
-    * Binary classification using a PCA for dimension resuction and ML algorithms (using hyperparameter tuning and stacking)
-    * Multiple classification using a CNN.
+    * Binary classification using a PCA for dimension reduction and ML algorithms (using hyperparameter tuning and stacking)
+    * Multiple classification using a CNN
