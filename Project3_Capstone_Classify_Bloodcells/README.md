@@ -13,5 +13,15 @@ White blood cells (WBCs), also called leucocytes, are the cells of the immune sy
 * Notebook 03: Binary classification (lymphocytes vs. rest) using a PCA for dimension reduction and classical machine learning algorithms
 * Notebook 04: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using a CNN
 
+**Key Takeaways**
+* The classical Machine Learning approach has a problem with overfitting in cross-validation due to the data structure (detailed explanations in notebook 02 and 03)
+* The best models are stacked together and achieve accuracy of 67% and 77%, respectively for the two binary classification problems
+* The CNN approach is much more promissing for this task. The simple model presented in Notebook 04 achieves a maximum accuracy of 85% and a mean of over 80% for the last 10 training epochs.
+
+**Future Work**
+* Improve accuracy in the CNN approach by hyperparameter tuning
+* Use a pretrained model
+* Include object detection in order to detect the location of white and red blood cells
+
 
 ... WORK IN PROGRESS ...
