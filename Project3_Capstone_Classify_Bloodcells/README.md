@@ -15,7 +15,7 @@ White blood cells (WBCs), also called leucocytes, are the cells of the immune sy
 
 **Key Takeaways**
 * The classical Machine Learning approach has a problem with overfitting in cross-validation due to the data structure (detailed explanations in notebook 02 and 03)
-* The best models are stacked together and achieve accuracy of 67% and 77%, respectively for the two binary classification problems
+* The best models (SVC, KNN, RandomForestClassifier, XGBoost) are stacked together and achieve accuracy of 57% and 77%, respectively for the two binary classification problems
 * The CNN approach is much more promissing for this task. The simple model presented in Notebook 04 achieves a maximum accuracy of 85% and a mean of over 80% for the last 10 training epochs.
 
 **Future Work**
