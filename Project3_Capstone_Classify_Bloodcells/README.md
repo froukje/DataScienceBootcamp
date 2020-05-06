@@ -6,6 +6,8 @@ Analysing blood cell images from https://www.kaggle.com/paultimothymooney/blood-
 <img src="cells.png" width="400"/>
 </div>
 
+Image by Blausen Medical - BruceBlaus. When using this image in external sources it can be cited as:Blausen.com staff (2014). "Medical gallery of Blausen Medical 2014". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56845134
+
 **Summary**
 
 White blood cells (WBCs), also called leucocytes, are the cells of the immune system that are involved in protecting the body against both infectious disease and foreign invaders. Each of the types has its own purpose. In this project microscope images of white blood cells are classified by their category. The objective is to use different types of techniques in order to tackle this problem. In a first step the problem is regarded as a binary classification problem. White blood cells can be categorized in two different ways, either by structure (granulocytes or agranulocytes) or by cell lineage (myeloid cells or lymphoid cells). These two problems are considered in Notebooks 02 and 03. Both problems are technically similar, however the second one gives better predicting accuracy (about 77%). In a second step all four different types are classified using a self-bulid CNN (more than 80% accuracy) and using transfer learning.
