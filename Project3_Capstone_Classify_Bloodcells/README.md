@@ -19,9 +19,9 @@ White blood cells (WBCs), also called leucocytes, are the cells of the immune sy
 * Notebook 05: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using transer learning build on VGG16
 
 <div>
-<img src="Plots/feature_importance_l1_cnn.png" width="800"/>
-<img src="Plots/feature_importance_l2_cnn.png" width="800"/>
-<img src="Plots/feature_importance_l3_cnn.png" width="800"/>
+<img src="Plots/feature_importance_l1_cnn.png" width="640"/>
+<img src="Plots/feature_importance_l2_cnn.png" width="650"/>
+<img src="Plots/feature_importance_l3_cnn.png" width="650"/>
 </div>
 
 **Key Takeaways**
