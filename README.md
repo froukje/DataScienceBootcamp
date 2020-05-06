@@ -25,3 +25,4 @@ Project3_Capstone_Classify_Bloodcells
 * Different techniques are used:
     * Binary classification using a PCA for dimension reduction and ML algorithms (using hyperparameter tuning and stacking)
     * Multiple classification using a CNN
+    * Transfer Learning
