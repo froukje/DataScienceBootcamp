@@ -6,6 +6,10 @@ Analysing blood cell images from https://www.kaggle.com/paultimothymooney/blood-
 
 White blood cells (WBCs), also called leucocytes, are the cells of the immune system that are involved in protecting the body against both infectious disease and foreign invaders. Each of the types has its own purpose. In this project microscope images of white blood cells are classified by their category. The objective is to use different types of techniques in order to tackle this problem. In a first step the problem is regarded as a binary classification problem. White blood cells can be categorized in two different ways, either by structure (granulocytes or agranulocytes) or by cell lineage (myeloid cells or lymphoid cells). These two problems are considered in Notebooks 02 and 03. Both problems are technically similar, however the second one gives better predicting accuracy (about 77%). In a second step all four different types are classified using a self-bulid CNN (more than 80% accuracy) and using transfer learning.
 
+<div>
+<img src="Plots/pca_steps.png" width="800"/>
+</div>
+
 **Content**
 
 * Notebook 01: EDA and Data Preprocessing
@@ -13,6 +17,12 @@ White blood cells (WBCs), also called leucocytes, are the cells of the immune sy
 * Notebook 03: Binary classification (lymphocytes vs. rest) using a PCA for dimension reduction and classical machine learning algorithms
 * Notebook 04: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using a CNN
 * Notebook 05: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using transer learning build on VGG16
+
+<div>
+<img src="Plots/feature_importance_l1_cnn.png" width="800"/>
+<img src="Plots/feature_importance_l2_cnn.png" width="800"/>
+<img src="Plots/feature_importance_l3_cnn.png" width="800"/>
+</div>
 
 **Key Takeaways**
 * The classical Machine Learning approach has a problem with overfitting in cross-validation due to the data structure (detailed explanations in notebook 02 and 03)
@@ -23,5 +33,9 @@ White blood cells (WBCs), also called leucocytes, are the cells of the immune sy
 * Improve accuracy in the CNN approach by hyperparameter tuning
 * Include object detection in order to detect the location of white blood cells, red blood cells and platelets
 
+
+<div>
+<img src="Plots/bounding_boxes_example.png" width="300"/>
+</div>
 
 ... WORK IN PROGRESS ...
