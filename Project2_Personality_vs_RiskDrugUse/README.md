@@ -1,4 +1,4 @@
-# Data science project in week 6 of the data science bootcamp [@neuefische](https://www.neuefische.de/)
+# Data Science Project in Week 6 of the Data Science Bootcamp [@neuefische](https://www.neuefische.de/)
 
 This is a collaborative project, authored together with [@BinaerBaer](https://github.com/BinaerBaer/)
 
