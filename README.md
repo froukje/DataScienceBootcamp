@@ -16,7 +16,7 @@ Project2_Personality_vs_RiskDrugUse:
 * Objective: Classify drug usage risk using different ML classifiers and hyperparameter tuning on a specific metric  
 
 Project3_Capstone_Classify_Bloodcells
-* Final project: work in progess ...
+* Final project (Capstone/"Digitales Gesellenstück")
 * Dataset: Images of four types of white blood cells from [kaggle](https://www.kaggle.com/paultimothymooney/blood-cells)
 * Objective: Classify white blood cells:
     * Granulocytes vs. Agranulocytes
