@@ -9,7 +9,3 @@ Sklearn version 0.22.2.post1
 Mlxtend version 0.17.2
 Xgboost version 0.90
 Tensorflow version 2.0.0
-
-Remark to Notebook 06 (06_Outlook_Object_Detection):
-For this notebook a lower Tensorflow version is necessary. 
-Details to the packages used in this notebook can be found in the cited tutorial.
