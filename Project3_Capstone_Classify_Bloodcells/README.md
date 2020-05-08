@@ -3,7 +3,7 @@
 Analysing blood cell images from https://www.kaggle.com/paultimothymooney/blood-cells
 
 <div>
-<img src="cells.png" width="400"/>
+<img src="Images/cells.png" width="400"/>
 </div>
 
 Image by Blausen Medical - BruceBlaus. When using this image in external sources it can be cited as:Blausen.com staff (2014). "Medical gallery of Blausen Medical 2014". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56845134
