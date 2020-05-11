@@ -19,12 +19,12 @@ White blood cells (WBCs), also called leucocytes, are the cells of the immune sy
 **Content**
 
 * 00_setup.txt: Needed packages and versions to run the code
-* Notebook 01: EDA and Data Preprocessing
-* Notebook 02: Binary classification (granulocytes vs. agranulocytes) using a PCA for dimension reduction and classical machine learning algorithms
-* Notebook 03: Binary classification (lymphocytes vs. rest) using a PCA for dimension reduction and classical machine learning algorithms
-* Notebook 04: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using a CNN
-* Notebook 05: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using transer learning build on VGG16
-* Notebook 06: Short Outlook on Object Detection
+* 01_classify_blood_cells_preprocessing_EDA.ipynb: EDA and Data Preprocessing
+* 02_classify_blood_cells_binary_classification_prediction_gran_vs_agran.ipynb: Binary classification (granulocytes vs. agranulocytes) using a PCA for dimension reduction and classical machine learning algorithms
+* 03_classify_blood_cells_binary_classification_prediction_lymph_vs_rest.ipynb: Binary classification (lymphocytes vs. rest) using a PCA for dimension reduction and classical machine learning algorithms
+* 04_classify_blood_cells_CNN.ipynb: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using a CNN
+* 05_Predictive_Modelling_Transfer_Learning.ipynb: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using transer learning build on VGG16
+* 06_Outlook_Object_Detection.ipynb: Short Outlook on Object Detection
 * Folder Plots: Some plotting results
 * Folder Images: Some Images used in the notebooks and presentation 
 * capstone_presentation_frauke_albrecht.pdf: Presentation of the project
