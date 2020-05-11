@@ -24,6 +24,9 @@ White blood cells (WBCs), also called leucocytes, are the cells of the immune sy
 * Notebook 04: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using a CNN
 * Notebook 05: Multiple classification (eosinophil, neutrophil, lymphocyte & monocye) using transer learning build on VGG16
 * Notebook 06: Short Outlook on Object Detection
+* Folder Plots: Some plotting results
+* Folder Images: Some Images used in the notebooks and presentation 
+* capstone_presentation_frauke_albrecht.pdf: Presentation of the project
 
 <div>
 <img src="Plots/feature_importance_l1_cnn.png" width="640"/>
