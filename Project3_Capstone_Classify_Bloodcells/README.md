@@ -18,6 +18,7 @@ White blood cells (WBCs), also called leucocytes, are the cells of the immune sy
 
 **Content**
 
+* 00_setup.txt: Needed packages and versions to run the code
 * Notebook 01: EDA and Data Preprocessing
 * Notebook 02: Binary classification (granulocytes vs. agranulocytes) using a PCA for dimension reduction and classical machine learning algorithms
 * Notebook 03: Binary classification (lymphocytes vs. rest) using a PCA for dimension reduction and classical machine learning algorithms
