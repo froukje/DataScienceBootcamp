@@ -30,7 +30,7 @@ Needed packages and versions to run the code
 * Folder Plots: Some plotting results
 * Folder Images: Some Images used in the notebooks and presentation 
 * capstone_presentation_frauke_albrecht.pdf: Presentation of the project
-* Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+* capstone_icon_frauke_albrecht.png: Icon used in the presentation (Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>)
 
 <div>
 <img src="Plots/feature_importance_l1_cnn.png" width="640"/>
